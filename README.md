@@ -4,10 +4,10 @@ This repository contains a demonstration of my database engineering skills using
 
 ## Table of Contents
 - [Database Schema](#database-schema)
+- [Entity-Relationship Diagram (ERD)](https://github.com/ryessem7/SQL-PGCounty/blob/main/PGDia.png)
 - [CSV Data Import](#csv-data-import)
-- [Data Types](#data-types)
-- [Entity-Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
 
+<a name="database-schema"></a>
 ## Database Schema
 
 ### Tables
@@ -28,13 +28,14 @@ This repository contains a demonstration of my database engineering skills using
 - Cities/County to Coordinates: One-to-One (One city/county can only have one latitude and longitude)
 - Cities to Citypop: Many-to-Many (Many cities have many populations)
 
+<a name="csv-data-import"></a>
 ## CSV Data Import
 
 ### CSV Files
-- PGCities.csv
-- Population.csv
-- PGCoordinates.csv
-- PGCountyTab.csv
+- [PGCities.csv](https://github.com/ryessem7/SQL-PGCounty/blob/main/PGCities.csv)
+- [Population.csv](https://github.com/ryessem7/SQL-PGCounty/blob/main/Population.csv)
+- [PGCoordinates.csv](https://github.com/ryessem7/SQL-PGCounty/blob/main/PGCoordinates.csv)
+- [PGCountyTab.csv](https://github.com/ryessem7/SQL-PGCounty/blob/main/PGCountyTab.csv)
 
 - Datasets derived from gigasheets, modified by myself. Population figures are not entirely accurate, but close enough. 
 
