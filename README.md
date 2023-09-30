@@ -28,6 +28,9 @@ This repository contains a demonstration of my database engineering skills using
 - Cities/County to Coordinates: One-to-One (One city/county can only have one latitude and longitude)
 - Cities to Citypop: Many-to-Many (Many cities have many populations)
 
+<img width="617" alt="spread1" src="https://github.com/ryessem7/SQL-PGCounty/blob/main/PGDia.png">
+
+
 <a name="csv-data-import"></a>
 ## CSV Data Import
 
