@@ -40,7 +40,7 @@ This repository contains a demonstration of my database engineering skills using
 - [PGCoordinates.csv](https://github.com/ryessem7/SQL-PGCounty/blob/main/PGCoordinates.csv)
 - [PGCountyTab.csv](https://github.com/ryessem7/SQL-PGCounty/blob/main/PGCountyTab.csv)
 
-- Datasets derived from gigasheets, modified by myself. Population figures are not entirely accurate, but close enough. 
+Datasets derived from gigasheets, modified by myself. Population figures are not entirely accurate, but close enough. 
 
 ### Creation Commands
 CREATE TABLE county (
