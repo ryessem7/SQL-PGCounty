@@ -1,6 +1,6 @@
 # SQL-PGCounty
 
-This repository contains a demonstration of my database engineering skills using MySQL. In this smmall activity, I have created a database schema, imported CSV data into tables, assigned data types, and created an Entity-Relationship Diagram (ERD) model.
+This repository contains a demonstration of my database engineering skills using MySQL. In this small activity, I have created a database schema, imported CSV data into tables, assigned data types, and created an Entity-Relationship Diagram (ERD) model.
 
 ## Table of Contents
 - [Database Schema](#database-schema)
